@@ -9879,4 +9879,9 @@ h1 {
   color: blueviolet;
 }
 
+body {
+  display: grid;
+  grid-template-rows: repeat(5, auto);
+}
+
 /*# sourceMappingURL=style.css.map */
